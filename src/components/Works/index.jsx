@@ -6,14 +6,6 @@ export default function Works() {
     <div className='work'>
       <h1>Work Experience</h1>
       <br />
-      <p>Company: Value-edge solutions pvt.ltd.</p>
-      <p>Role: Full Stack Developer</p>
-      <p>Date: Dec 2020 - on going</p>
-      <p>
-        Working on MyKart, An e-commerce web application built on top of MERN
-        stack.
-      </p>
-      <br />
       <p>Company: Nviera Technologies Pvt. Ltd.</p>
       <p>Role: Intern - Blockchain Developer</p>
       <p>Date: Sept 2018 - Dec 2018</p>
@@ -23,7 +15,9 @@ export default function Works() {
       <p>Role: Intern</p>
       <p>Date: June 2016 - Aug 2016</p>
       <p>
-        Learned basic Robotics and worked on few models using those Technologies
+        Learned basic Robotics and worked on few models using those
+        Technologies, and also taught Robotics to school students by conduting
+        seminors.
       </p>
     </div>
   )
